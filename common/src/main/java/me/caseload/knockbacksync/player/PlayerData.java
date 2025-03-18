@@ -41,7 +41,7 @@ public class PlayerData {
     // Please read the GitHub FAQ before adjusting.
     private static final short MAIN_THREAD_TRANSACTION_ID = 31407;
     private static final short NETTY_THREAD_TRANSACTION_ID = 31408;
-    public static final long PING_OFFSET = 25;
+    public static final long PING_OFFSET = 15;
 
     private static Field playerField;
 
